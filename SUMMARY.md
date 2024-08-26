@@ -1,0 +1,15 @@
+# Table of contents
+
+* [Как создать семью?](README.md)
+* [Как создать семью?](create-fam.md)
+* [🔃 ispolzovanie-komand](ispolzovanie-komand/README.md)
+  * [▶️ Команда /create\_mp](ispolzovanie-komand/komanda-create\_mp.md)
+* [⭐ pervye-shagi](pervye-shagi/README.md)
+  * [Как узнать ID сервера в Discord?](pervye-shagi/kak-uznat-id-servera-v-discord.md)
+* [💇‍♂️ upravlenie](upravlenie/README.md)
+  * [🏘️ Как добавить пользователя для управление семьи?](upravlenie/kak-dobavit-polzovatelya-dlya-upravlenie-semi.md)
+  * [👪 Как настроить семью?](upravlenie/kak-nastroit-semyu.md)
+  * [🔃 Команды приложения](upravlenie/komandy-prilozheniya.md)
+  * [📑 Логирование](upravlenie/logirovanie.md)
+  * [🦸 Управление группами!](upravlenie/upravlenie-gruppami.md)
+  * [🚘 Управление техникой](upravlenie/upravlenie-tekhnikoi.md)
