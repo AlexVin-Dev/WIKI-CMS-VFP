@@ -1,8 +1,6 @@
 # Table of contents
 
 * [Главная страница!](README.md)
-* [🔃 Использование команд](ispolzovanie-komand/README.md)
-  * [▶️ Команда /create\_mp](ispolzovanie-komand/komanda-create\_mp.md)
 * [⭐ Первые шаги](pervye-shagi/README.md)
   * [Как узнать ID сервера в Discord?](pervye-shagi/kak-uznat-id-servera-v-discord.md)
   * [Как создать семью?](create-fam.md)
@@ -13,3 +11,5 @@
   * [📑 Логирование](upravlenie/logirovanie.md)
   * [🦸 Управление группами!](upravlenie/upravlenie-gruppami.md)
   * [🚘 Управление техникой](upravlenie/upravlenie-tekhnikoi.md)
+* [🔃 Использование команд](ispolzovanie-komand/README.md)
+  * [▶️ Команда /create\_mp](ispolzovanie-komand/komanda-create\_mp.md)
