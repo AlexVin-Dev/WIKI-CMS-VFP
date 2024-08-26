@@ -2,7 +2,7 @@
 
 ## ⭐ Первые шаги
 
-* [Как создать семью?](pervye-shagi/create-fam.md)
+* [Как создать семью?](create-fam.md)
 * [Как узнать ID сервера в Discord?](pervye-shagi/kak-uznat-id-servera-v-discord.md)
 
 ## 💇‍♂️ Управление

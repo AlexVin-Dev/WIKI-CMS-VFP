@@ -5,7 +5,7 @@
   * [▶️ Команда /create\_mp](ispolzovanie-komand/komanda-create\_mp.md)
 * [⭐ Первые шаги](pervye-shagi/README.md)
   * [Как узнать ID сервера в Discord?](pervye-shagi/kak-uznat-id-servera-v-discord.md)
-  * [Как создать семью?](pervye-shagi/create-fam.md)
+  * [Как создать семью?](create-fam.md)
 * [💇‍♂️ Управление](upravlenie/README.md)
   * [🏘️ Как добавить пользователя для управление семьи?](upravlenie/kak-dobavit-polzovatelya-dlya-upravlenie-semi.md)
   * [👪 Как настроить семью?](upravlenie/kak-nastroit-semyu.md)
