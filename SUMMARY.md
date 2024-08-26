@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Как создать семью?](README.md)
+* [Главная страница!](README.md)
 * [Как создать семью?](create-fam.md)
-* [🔃 ispolzovanie-komand](ispolzovanie-komand/README.md)
+* [🔃 Использование команд](ispolzovanie-komand/README.md)
   * [▶️ Команда /create\_mp](ispolzovanie-komand/komanda-create\_mp.md)
 * [⭐ pervye-shagi](pervye-shagi/README.md)
   * [Как узнать ID сервера в Discord?](pervye-shagi/kak-uznat-id-servera-v-discord.md)

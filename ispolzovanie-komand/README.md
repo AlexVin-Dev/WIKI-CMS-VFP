@@ -1,2 +1,2 @@
-# 🔃 ispolzovanie-komand
+# 🔃 Использование команд
 
