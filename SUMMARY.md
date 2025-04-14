@@ -3,3 +3,5 @@
 * [Главная страница!](README.md)
 * [⭐ Первые шаги](pervye-shagi/README.md)
   * [Как подключиться к серверу AspirezFRP](pervye-shagi/start.md)
+* [Информация](informaciya/README.md)
+  * [Правила](informaciya/pravila.md)
