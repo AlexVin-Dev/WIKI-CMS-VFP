@@ -2,7 +2,7 @@
 
 * [Главная страница!](README.md)
 * [⭐ Первые шаги](pervye-shagi/README.md)
-  * [Как подключиться к серверу AspirezFRP](pervye-shagi/kak-uznat-id-servera-v-discord.md)
+  * [Как подключиться к серверу AspirezFRP](pervye-shagi/start.md)
   * [Как создать семью?](create-fam.md)
 * [💇‍♂️ Управление](upravlenie/README.md)
   * [🏘️ Как добавить пользователя для управление семьи?](upravlenie/kak-dobavit-polzovatelya-dlya-upravlenie-semi.md)

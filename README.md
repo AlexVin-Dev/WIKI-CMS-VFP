@@ -3,7 +3,7 @@
 ## ⭐ Первые шаги
 
 * [Как создать семью?](create-fam.md)
-* [Как узнать ID сервера в Discord?](pervye-shagi/kak-uznat-id-servera-v-discord.md)
+* [Как узнать ID сервера в Discord?](pervye-shagi/start.md)
 
 ## 💇‍♂️ Управление
 
@@ -16,4 +16,4 @@
 
 ## 🔃 Использование команд
 
-* [▶️ Команда /create\_mp](ispolzovanie-komand/komanda-create\_mp.md)
+* [▶️ Команда /create\_mp](ispolzovanie-komand/komanda-create_mp.md)
