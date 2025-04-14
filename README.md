@@ -1,20 +1,7 @@
 ---
-icon: line-height
+icon: book-open
 ---
 
-# Главная страница!
+# База знаний
 
-## ⭐ Первые шаги
-
-*   ## [Как подключиться к серверу AspirezFRP](pervye-shagi/start.md)[?](pervye-shagi/start.md)
-
-
-
-## &#x20;Информация
-
-* ## [Правила](informaciya/pravila.md)
-* ## [Команды](informaciya/komandy.md)
-* ## [Список разрешенных и запрещенных модов.](informaciya/spisok-razreshennykh-i-zapreshennykh-modov.md)
-
-
-
+Здесь вы можете ознакомиться с правилами сервера, найти ответы на частые вопросы и получить дополнительную информацию о сайте и сервере.

@@ -1,8 +1,7 @@
 # Table of contents
 
-* [Главная страница!](README.md)
-* [⭐ Первые шаги](pervye-shagi/README.md)
-  * [Как подключиться к серверу AspirezFRP](pervye-shagi/start.md)
+* [База знаний](README.md)
+  * [Как подключиться к серверу AspirezFRP](readme/start.md)
 * [Информация](informaciya/README.md)
   * [Правила](informaciya/pravila.md)
   * [Команды](informaciya/komandy.md)
