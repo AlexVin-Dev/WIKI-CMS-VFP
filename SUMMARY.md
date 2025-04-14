@@ -2,7 +2,7 @@
 
 * [Главная страница!](README.md)
 * [⭐ Первые шаги](pervye-shagi/README.md)
-  * [Как узнать ID сервера в Discord?](pervye-shagi/kak-uznat-id-servera-v-discord.md)
+  * [Как подключиться к серверу AspirezFRP](pervye-shagi/kak-uznat-id-servera-v-discord.md)
   * [Как создать семью?](create-fam.md)
 * [💇‍♂️ Управление](upravlenie/README.md)
   * [🏘️ Как добавить пользователя для управление семьи?](upravlenie/kak-dobavit-polzovatelya-dlya-upravlenie-semi.md)
@@ -12,4 +12,4 @@
   * [🦸 Управление группами!](upravlenie/upravlenie-gruppami.md)
   * [🚘 Управление техникой](upravlenie/upravlenie-tekhnikoi.md)
 * [🔃 Использование команд](ispolzovanie-komand/README.md)
-  * [▶️ Команда /create\_mp](ispolzovanie-komand/komanda-create\_mp.md)
+  * [▶️ Команда /create\_mp](ispolzovanie-komand/komanda-create_mp.md)
