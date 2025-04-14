@@ -10,7 +10,7 @@ icon: line-height
 
 
 
-## ⭐ Информация
+## &#x20;Информация
 
 * ## [Правила](informaciya/pravila.md)
 * ## [Команды](informaciya/komandy.md)
