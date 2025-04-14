@@ -6,3 +6,4 @@
 * [Информация](informaciya/README.md)
   * [Правила](informaciya/pravila.md)
   * [Команды](informaciya/komandy.md)
+  * [Список разрешенных и запрещенных модов](informaciya/spisok-razreshennykh-i-zapreshennykh-modov.md)
