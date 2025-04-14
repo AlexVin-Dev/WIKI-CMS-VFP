@@ -12,3 +12,4 @@
   * [Часто задаваемые вопросы](informaciya/chasto-zadavaemye-voprosy.md)
   * [Пользовательское соглашение](informaciya/polzovatelskoe-soglashenie.md)
   * [Политика конфиденциальности персональных данных](informaciya/politika-konfidencialnosti-personalnykh-dannykh.md)
+  * [Конфигурация сервера и лимиты](informaciya/konfiguraciya-servera-i-limity.md)
