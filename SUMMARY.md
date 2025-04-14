@@ -9,3 +9,4 @@
   * [Список разрешенных и запрещенных модов](informaciya/spisok-razreshennykh-i-zapreshennykh-modov.md)
   * [Снятие чар с предметов с помощью точила](informaciya/snyatie-char-s-predmetov-s-pomoshyu-tochila.md)
   * [Часто задаваемые вопросы](informaciya/chasto-zadavaemye-voprosy.md)
+  * [Пользовательское соглашение](informaciya/polzovatelskoe-soglashenie.md)
