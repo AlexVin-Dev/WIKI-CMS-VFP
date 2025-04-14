@@ -5,3 +5,4 @@
   * [Как подключиться к серверу AspirezFRP](pervye-shagi/start.md)
 * [Информация](informaciya/README.md)
   * [Правила](informaciya/pravila.md)
+  * [Команды](informaciya/komandy.md)
