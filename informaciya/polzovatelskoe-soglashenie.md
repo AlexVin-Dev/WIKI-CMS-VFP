@@ -4,7 +4,7 @@ icon: handshake
 
 # Пользовательское соглашение
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **Последнее обновление:** 14 Апреля 2025 г.
 {% endhint %}
 
