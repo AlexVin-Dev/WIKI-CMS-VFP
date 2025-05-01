@@ -10,6 +10,7 @@
   * [Снятие чар с предметов с помощью точила](aspirezfrp-survial/snyatie-char-s-predmetov-s-pomoshyu-tochila.md)
   * [Часто задаваемые вопросы](aspirezfrp-survial/chasto-zadavaemye-voprosy.md)
   * [Конфигурация сервера и лимиты](aspirezfrp-survial/konfiguraciya-servera-i-limity.md)
+  * [Улучшеная печка](aspirezfrp-survial/uluchshenaya-pechka.md)
 * [Правовая информация](pravovaya-informaciya/README.md)
   * [Правила сервера AspirezFRP](pravovaya-informaciya/pravila-servera-aspirezfrp.md)
   * [Политика возврата денежных средств](pravovaya-informaciya/politika-vozvrata-denezhnykh-sredstv.md)
