@@ -15,6 +15,7 @@
     * [Уникальные крафты](aspirezfrp-survial/apgreid-paki/unikalnye-krafty.md)
     * [Жители с системами полов](aspirezfrp-survial/apgreid-paki/zhiteli-s-sistemami-polov.md)
     * [Улучшеная печка](aspirezfrp-survial/apgreid-paki/uluchshenaya-pechka.md)
+    * [Дополнительные возможности](aspirezfrp-survial/apgreid-paki/dopolnitelnye-vozmozhnosti.md)
 * [Правовая информация](pravovaya-informaciya/README.md)
   * [Правила сервера AspirezFRP](pravovaya-informaciya/pravila-servera-aspirezfrp.md)
   * [Политика возврата денежных средств](pravovaya-informaciya/politika-vozvrata-denezhnykh-sredstv.md)
