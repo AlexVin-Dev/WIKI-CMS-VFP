@@ -12,6 +12,7 @@
   * [Конфигурация сервера и лимиты](aspirezfrp-survial/konfiguraciya-servera-i-limity.md)
   * [Улучшеная печка](aspirezfrp-survial/uluchshenaya-pechka.md)
   * [Уникальные крафты](aspirezfrp-survial/unikalnye-krafty.md)
+  * [Жители с системами полов в AspirezFRP](aspirezfrp-survial/zhiteli-s-sistemami-polov-v-aspirezfrp.md)
 * [Правовая информация](pravovaya-informaciya/README.md)
   * [Правила сервера AspirezFRP](pravovaya-informaciya/pravila-servera-aspirezfrp.md)
   * [Политика возврата денежных средств](pravovaya-informaciya/politika-vozvrata-denezhnykh-sredstv.md)
