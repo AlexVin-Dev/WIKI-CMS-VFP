@@ -10,6 +10,7 @@
   * [Часто задаваемые вопросы](aspirezfrp-survial/chasto-zadavaemye-voprosy.md)
   * [Конфигурация сервера и лимиты](aspirezfrp-survial/konfiguraciya-servera-i-limity.md)
   * [Апгрейд-паки](aspirezfrp-survial/apgreid-paki/README.md)
+    * [Simple Voise Chat](aspirezfrp-survial/apgreid-paki/simple-voise-chat.md)
     * [Снятие чар с предметов с помощью точила](aspirezfrp-survial/apgreid-paki/snyatie-char-s-predmetov-s-pomoshyu-tochila.md)
     * [Уникальные крафты](aspirezfrp-survial/apgreid-paki/unikalnye-krafty.md)
     * [Жители с системами полов](aspirezfrp-survial/apgreid-paki/zhiteli-s-sistemami-polov.md)
