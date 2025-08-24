@@ -20,7 +20,7 @@ icon: gear
 
 ### Ядро сервера:
 
-На наших всех серверах стоит ядро [Purpur](https://purpurmc.org/) 1.21.4.
+На наших всех серверах стоит ядро [Purpur](https://purpurmc.org/) 1.21.7.
 
 ### _spigot.yml_
 
